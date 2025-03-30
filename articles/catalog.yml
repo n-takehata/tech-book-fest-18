@@ -2,7 +2,11 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - 01_manager_tasks.re
+  - 02_communitation.re
+  - 03_recruit.re
+  - 04_training.re
+  - 05_mind.re
 
 APPENDIX:
 
