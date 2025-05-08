@@ -11,4 +11,5 @@ CHAPS:
 APPENDIX:
 
 POSTDEF:
+  - afterword.re
   - contributors.re
